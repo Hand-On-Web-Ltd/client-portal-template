@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Website Redesign",
+    "status": "In Progress",
+    "progress": 65,
+    "milestones": [
+      {
+        "name": "Wireframes approved",
+        "done": true
+      },
+      {
+        "name": "Design mockups",
+        "done": true
+      },
+      {
+        "name": "Frontend build",
+        "done": false
+      },
+      {
+        "name": "CMS integration",
+        "done": false
+      },
+      {
+        "name": "Launch",
+        "done": false
+      }
+    ],
+    "files": [
+      {
+        "name": "brand-guidelines.pdf"
+      },
+      {
+        "name": "wireframes-v2.fig"
+      },
+      {
+        "name": "sitemap.xlsx"
+      }
+    ],
+    "messages": [
+      {
+        "author": "Sarah (Designer)",
+        "time": "2 days ago",
+        "text": "Uploaded the latest mockups \u2014 check the Files tab."
+      },
+      {
+        "author": "You",
+        "time": "1 day ago",
+        "text": "Looks great! Can we make the hero section a bit taller?"
+      },
+      {
+        "author": "Sarah (Designer)",
+        "time": "5 hours ago",
+        "text": "Done \u2014 updated version is in the files now."
+      }
+    ]
+  },
+  {
+    "name": "AI Chatbot Setup",
+    "status": "Planning",
+    "progress": 20,
+    "milestones": [
+      {
+        "name": "Requirements gathered",
+        "done": true
+      },
+      {
+        "name": "Knowledge base built",
+        "done": false
+      },
+      {
+        "name": "Bot trained",
+        "done": false
+      },
+      {
+        "name": "Testing",
+        "done": false
+      },
+      {
+        "name": "Go live",
+        "done": false
+      }
+    ],
+    "files": [
+      {
+        "name": "faq-document.docx"
+      },
+      {
+        "name": "chatbot-flow.pdf"
+      }
+    ],
+    "messages": [
+      {
+        "author": "Dev Team",
+        "time": "3 days ago",
+        "text": "We've started building the knowledge base from your FAQ doc."
+      },
+      {
+        "author": "You",
+        "time": "2 days ago",
+        "text": "Perfect \u2014 let me know when it's ready for testing."
+      }
+    ]
+  },
+  {
+    "name": "SEO Campaign Q1",
+    "status": "Completed",
+    "progress": 100,
+    "milestones": [
+      {
+        "name": "Keyword research",
+        "done": true
+      },
+      {
+        "name": "On-page fixes",
+        "done": true
+      },
+      {
+        "name": "Content published",
+        "done": true
+      },
+      {
+        "name": "Link building",
+        "done": true
+      },
+      {
+        "name": "Monthly report",
+        "done": true
+      }
+    ],
+    "files": [
+      {
+        "name": "seo-report-q1.pdf"
+      },
+      {
+        "name": "keyword-list.csv"
+      }
+    ],
+    "messages": [
+      {
+        "author": "SEO Team",
+        "time": "1 week ago",
+        "text": "Q1 report is ready. Organic traffic up 34% \u2014 nice results."
+      },
+      {
+        "author": "You",
+        "time": "6 days ago",
+        "text": "Brilliant, thanks! Let's keep the momentum going in Q2."
+      }
+    ]
+  }
+]
